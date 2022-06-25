@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoHopGal
+- 👋 Hi, I’m @SoHopGal (also SohopGAS)
 - 👀 I’m interested in Software Engineering and Cyber Security.
 - 🌱 I’m currently learning C, C++, Python and more.
 - 💞️ I’m looking to collaborate on Research Labratory
